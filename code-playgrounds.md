@@ -1,13 +1,7 @@
-# Code Playground (Write a code in the browser)
+# Code Playgrounds (Write a code in the browser)
 
-- [Tools](README.md)
-- [VSCode Extensions](vscode-extensions.md)
-- [Commands](commands.md)
-
-Useful code playgrounds pushed by the community. Please, submit a Pull Request or Open an issue for a useful code playground that you know.
-
-Code Playground | Description
----- | ----
+| Code Playground | Description |
+| --------------- | ----------- |
 [CodePen](https://codepen.io/) | Tool for front-end development. You can develop any HTML, CSS, modern web frameworks, javascript based code. Integrate your code to github and possible to collaborate. **Features: (examples, github, adding npm packages, download the code, auto reload)**
 [CodeSandbox](https://codesandbox.io/) | You can run both front-end and back-end (javascript, nodejs, any front end frameworks). Easy to fork from github and modify the code **Features: (examples, github, adding npm packages, auto reload, deploy the app)**
 [JSBin](https://jsbin.com/) | Those who are learning vanilla JS, HTML, CSS (_intermediate level_). **Features: (examples, adding cdn packages)**
@@ -24,3 +18,11 @@ Code Playground | Description
 [Postdrop.io](https://app.postdrop.io) | Postdrop. A simple tool to help developers with HTML email.
 [StackBlitz](https://stackblitz.com) | StackBlitz. A nice playground to create, edit & deploy fullstack apps. It supports JavaScript frameworks such as Angular, React, Ionic, TypeScript, Svelte, and RxJs.
 [Jupyter Notebook](https://jupyter.org/) | Project Jupyter exists to develop open-source software, open-standards, and services for interactive computing across dozens of programming languages.
+[W3Schools Online Code Editor](https://www.w3schools.com/tryit/) | With W3Schools online code editor, you can edit HTML, CSS and JavaScript code, and view the result in your browser.
+[apiDoc](https://apidocjs.com/) | Creates a documentation from API annotations in your source code.
+[GDB online](https://www.onlinegdb.com/) |  Online compiler and debugger tool for C, C++, Python, PHP, Ruby, C#, VB, Perl, Swift, Prolog, Javascript, Pascal, HTML, CSS, JS. Code, Compile, Run and Debug online from anywhere in world.
+[Scrimba](https://scrimba.com/) | Learn to Code with Interactive Tutorials.
+[Google Colab](https://colab.research.google.com/) | Colab notebooks doesn't require configuration and allows anybody to write and execute arbitrary python code through the browser. Is especially great to machine learning, data analysis and education.
+[Kotlin Playground](https://play.kotlinlang.org/) | Kotlin Playground is an online sandbox to explore Kotlin programming language. Browse code samples directly in the browser.
+[Rust online IDE](https://play.rust-lang.org/) | A browser interface to the Rust compiler to experiment with the language.
+[Ellie](https://ellie-app.com/) | Ellie is a web application with an Elixir backend and an Elm frontend. You can explore and try out Elm programming language

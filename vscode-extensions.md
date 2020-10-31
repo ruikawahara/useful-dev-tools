@@ -1,11 +1,5 @@
 # VSCode Extensions 🛠
 
-- [Tools](README.md)
-- [Code Playgrounds](code-playgrounds.md)
-- [Commands](commands.md)
-
-Useful VSCode extensions pushed by the community. Please, submit a Pull Request or Open an issue for a useful extension that you know.
-
 | Extension | Description |
 | --------- | ----------- |
 [Python Indent](https://marketplace.visualstudio.com/items?itemName=KevinRose.vsc-python-indent) | Correct python indentation.
@@ -70,7 +64,6 @@ Useful VSCode extensions pushed by the community. Please, submit a Pull Request 
 [Firestore Rules](https://marketplace.visualstudio.com/items?itemName=ChFlick.firecode) |Firestore security rule support for Visual Studio Code. (Works for .rule and .rules files.)
 [GLSL Canvas](https://marketplace.visualstudio.com/items?itemName=circledev.glsl-canvas) |The extension opens a live WebGL preview of GLSL shaders within VSCode by providing a Show glslCanvas command. (Works for .glsl, .frag, and .vert files.)
 [EditorConfig](https://marketplace.visualstudio.com/items?itemName=EditorConfig.EditorConfig) | EditorConfig Support for Visual Studio Code
-[Debugger for Firefox](https://marketplace.visualstudio.com/items?itemName=firefox-devtools.vscode-firefox-debug) | Debug your web application or browser extension in Firefox
 [Auto Import](https://marketplace.visualstudio.com/items?itemName=steoates.autoimport) | Automatically finds, parses and provides code actions and code completion for all available imports. Works with Typescript and TSX.
 [Aural Coding (Keyboard sounds)](https://marketplace.visualstudio.com/items?itemName=jeng.aural-coding-vscode) | A Visual Studio Code extension that creates sweet melodies based on what you type.
 [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint) | An extension that integrates ESLint into VS Code.
@@ -85,9 +78,36 @@ Useful VSCode extensions pushed by the community. Please, submit a Pull Request 
 [MongoDB](https://marketplace.visualstudio.com/items?itemName=mongodb.mongodb-vscode) | Connect to MongoDB and Atlas directly from your VS Code environment, navigate your databases and collections, inspect your schema and use playgrounds to prototype queries and aggregations.
 [Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) | Code Time is an open source plugin for automatic programming metrics and time tracking.
 [100 Days of Code](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-100-days-of-code) | 100 Days of Code is a VS Code extension that helps you reach your goals and complete the #100DaysOfCode Challenge.
-[Vetur](https://marketplace.visualstudio.com/items?itemName=octref.vetur) | linter, snippet, and auto-completion to help developer developing Vue.js web applications
 [Pink-Cat-Boo Theme](https://marketplace.visualstudio.com/items?itemName=ftsamoyed.theme-pink-cat-boo) | It is a cute theme for coder girls. The mainly colours are rose pink, light purple, banana yellow and sky blue.
 [Nyan the cat](https://marketplace.visualstudio.com/items?itemName=zhengrenzhe.nyan-cat)  | Put Nyan the cat in your status bar.
 [Open in browser](https://marketplace.visualstudio.com/items?itemName=techer.open-in-browser) | You can open your htlm work in the browser and see how it is.
 [Rest client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client) | It allows you to send all the HTTP request you need and view the response in your VS use to the work.
 [Browser Preview](https://marketplace.visualstudio.com/items?itemName=auchenberg.vscode-browser-preview) | Browser Preview for VS Code enables you to open a real browser preview inside your editor that you can debug.
+[Path Intellisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense) | A plugin that autocompletes filenames. Intellisense will automatically fill or show suggestions as you try and type a path in quotations.
+[VSCode Styled Components](https://marketplace.visualstudio.com/items?itemName=jpoissonnier.vscode-styled-components) | Syntax highlighting for styled-components. Very useful to develop using styled-components.
+[indent-rainbow](https://marketplace.visualstudio.com/items?itemName=oderwat.indent-rainbow) | This extension colorizes the indentation in front of your text alternating four different colors on each step. This makes it easier to find your lines of code, making the process more practical.
+[Vuln Cost - Security Scanner](https://marketplace.visualstudio.com/items?itemName=snyk-security.vscode-vuln-cost) | Find security vulnerabilities in open source packages while you code in JavaScript, TypeScript and HTML.
+[Indented Block Highlighting](https://marketplace.visualstudio.com/items?itemName=byi8220.indented-block-highlighting) | Highlights lines of the block that has the indentation level of the cursor.
+[Code Runner](https://marketplace.visualstudio.com/items?itemName=formulahendry.code-runner) | Run code snippet or code file for multiple languages.
+[Git History](https://github.com/DonJayamanne/gitHistoryVSCode) | Git History, Search and More (including git log).
+[Sass Lint](https://github.com/glen-84/vscode-sass-lint) | Integrates sass-lint parser into VSCode.
+[Remote - SSH](https://marketplace.visualstudio.com/items?itemName=ms-vscode-remote.remote-ssh-edit) | The Remote - SSH extension lets you use any remote machine with a SSH server as your development environment.
+[Vue VSCode Snippets](https://marketplace.visualstudio.com/items?itemName=sdras.vue-vscode-snippets) | Vue.js code snippets for VSCode.
+[Glitch](https://marketplace.visualstudio.com/items?itemName=glitch.glitch) | Collaborative editing and instant application deployment on Glitch from VS Code.
+[PHPCS](https://marketplace.visualstudio.com/items?itemName=ikappas.phpcs) | php cs adalahThe PHP Coding Standards Fixer (PHP CS Fixer) tool fixes your code to follow standards.
+[React native tools](https://marketplace.visualstudio.com/items?itemName=msjsdiag.vscode-react-native) | Extension that provides a development environment for React Native Projects.
+[Numbered Bookmarks](https://marketplace.visualstudio.com/items?itemName=alefragnani.numbered-bookmarks) | It helps you to navigate in your code by setting the marker, moving between important markers easily and quickly.
+[hadolint](https://marketplace.visualstudio.com/items?itemName=exiasr.hadolint) | A smarter Dockerfile linter that helps you build best practice Docker images. The linter is parsing the Dockerfile into an AST and performs rules on top of the AST. It is standing on the shoulders of ShellCheck to lint the Bash code inside RUN instructions.
+[CodeMetrics](https://marketplace.visualstudio.com/items?itemName=kisstkondoros.vscode-codemetrics) | Computes complexity in TypeScript / JavaScript / Lua files.
+[Code Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.swdc-vscode) | Code Time is an open source plugin for automatic programming metrics and time tracking.
+[HTML Boilerplate](https://marketplace.visualstudio.com/items?itemName=sidthesloth.html5-boilerplate) | Provides the standard HTML boilerplate used in all web applications.
+[Auto Rename Tag](https://marketplace.visualstudio.com/items?itemName=formulahendry.auto-rename-tag) | Automatically rename paired HTML/XML tag, same as Visual Studio IDE does.
+[Intellij Idea Keybindings](https://marketplace.visualstudio.com/items?itemName=k--kato.intellij-idea-keybindings) | For those who once were used to use Intellij or other tools from Jetbrains, this plugin allow you to include the keymaps for popular JetBrains products like IntelliJ Ultimate, WebStorm, PyCharm, PHP Storm, etc.
+[Solargraph](https://github.com/castwide/vscode-solargraph) | Solargraph is a language server that provides intellisense, code completion, and inline documentation for Ruby.
+[Error Lens](https://marketplace.visualstudio.com/items?itemName=usernamehw.errorlens) | ErrorLens turbo-charges language diagnostic features by making diagnostics stand out more prominently, highlighting the entire line wherever a diagnostic is generated by the language and also prints the message inline.
+[TSLint](https://marketplace.visualstudio.com/items?itemName=ms-vscode.vscode-typescript-tslint-plugin) |Extension that checks TypeScript code for readability, maintainability, and functionality errors.
+[Python](https://marketplace.visualstudio.com/items?itemName=ms-python.python) | Extension that supports Python language and features like linting, debugging, code navigation, code formatting etc.
+[SonarLint](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarlint-vscode) | SonarLint highlights Bugs and Security Vulnerabilities as you write code, with remediation guidance so you can fix them before the code is even committed. It supports analysis of JavaScript, TypeScript, Python, Java, HTML & PHP code.
+[Angular Snippets](https://marketplace.visualstudio.com/items?itemName=johnpapa.Angular2) | This extension adds new snippets for Angular for Typescript and HTML
+[Colorize](https://marketplace.visualstudio.com/items?itemName=kamikillerto.vscode-colorize) | A vscode extension to help visualize css colors in files.
+[Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode) | JavaScript and TypeScript playground in your editor.
