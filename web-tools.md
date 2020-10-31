@@ -134,3 +134,4 @@
 [Codespaces](https://github.com/features/codespaces) | Codespaces is your instant dev environment from Github
 [3Cols](https://3cols.com/) | A free cloud based code snippet manager for personal and collaborative code.
 [Sonarqube](https://www.sonarqube.org/) | Is an open-source platform developed by SonarSource for continuous inspection of code quality to perform automatic reviews with static analysis of code to detect bugs, code smells, and security vulnerabilities on 20+ programming languages. 
+[JWT Debugger](https://jwt.io/) | Tools to debug your JSON Web Token to see if token you are using is faulty or not. This is useful when you are making web apps that requires web token and want to test the token you generated. For debbuger, click "Debugger" on top naviation or scroll down a bit.
